@@ -1,0 +1,38 @@
+{
+  "name": "vue-dotdotdot",
+  "version": "1.0.0",
+  "description": "A basic vuejs component to provide \"a loading dots thing\"",
+  "author": "Gorrie Coe <gorriecoe@gmail.com>",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "lint-fix": "eslint **/*.js --fix"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "peerDependencies": {
+    "vue": "^2.6.4"
+  },
+  "bugs": {
+    "url": "https://github.com/gorriecoe/vue-dotdotdot/issues"
+  },
+  "homepage": "https://github.com/gorriecoe/vue-dotdotdot",
+  "keywords": [
+    "vuejs",
+    "component",
+    "loading",
+    "loader",
+    "load"
+  ],
+  "license": "BSD-3-Clause",
+  "main": "./src",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gorriecoe/vue-dotdotdot.git"
+  }
+}
